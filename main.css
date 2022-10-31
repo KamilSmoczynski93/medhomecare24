@@ -159,7 +159,7 @@ header p {
 header .hero-img {
   position: relative;
   height: 100vh;
-  background-image: url("./hospice-ga078c086b_1920.jpg");
+  background-image: url("/hospice-ga078c086b_1920.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -167,7 +167,7 @@ header .hero-img {
 }
 header .hero-img-care {
   position: relative;
-  background-image: url("./hospice-ga078c086b_1920.jpg");
+  background-image: url("/hospice-ga078c086b_1920.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -227,7 +227,7 @@ header .hero-text {
 
 .aboutus-hero {
   position: relative;
-  background-image: url("./hands-g0af62b364_640.jpg");
+  background-image: url("/hands-g0af62b364_640.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -300,7 +300,7 @@ header .hero-text {
 
 .team {
   position: relative;
-  background-image: url("./team-bg.jpg");
+  background-image: url("/team-bg.jpg");
   background-size: cover;
   background-attachment: fixed;
   z-index: 0;
@@ -370,7 +370,7 @@ header .hero-text {
 
 .contact {
   position: relative;
-  background-image: url("./contact-hero.jpg");
+  background-image: url("/contact-hero.jpg");
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
@@ -465,11 +465,11 @@ header .hero-text {
     height: 82px;
   }
   .aboutus-hero {
-    background-image: url("./hands-g0af62b364_640.jpg");
+    background-image: url("/hands-g0af62b364_640.jpg");
   }
 }
 @media (min-width: 1200px) {
   header .hero-img {
-    background-image: url("./hospice-ga078c086b_1920.jpg");
+    background-image: url("/hospice-ga078c086b_1920.jpg");
   }
 }/*# sourceMappingURL=main.css.map */
